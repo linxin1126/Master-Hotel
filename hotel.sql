@@ -11,7 +11,7 @@
  Target Server Version : 50732
  File Encoding         : 65001
 
- Date: 01/07/2021 10:36:32
+ Date: 01/07/2021 14:08:47
 */
 
 SET NAMES utf8mb4;
@@ -34,7 +34,7 @@ CREATE TABLE `check_in` (
   `update_time` datetime DEFAULT NULL COMMENT '更新时间',
   PRIMARY KEY (`check_in_id`),
   UNIQUE KEY `uqe_order_id` (`order_id`)
-) ENGINE=InnoDB AUTO_INCREMENT=10 DEFAULT CHARSET=utf8 COMMENT='入住退房登记表';
+) ENGINE=InnoDB AUTO_INCREMENT=11 DEFAULT CHARSET=utf8 COMMENT='入住退房登记表';
 
 -- ----------------------------
 -- Table structure for department_info
@@ -161,7 +161,7 @@ CREATE TABLE `user_info` (
   `update_time` datetime DEFAULT NULL COMMENT '更新时间',
   PRIMARY KEY (`user_id`),
   UNIQUE KEY `uqe_username` (`username`)
-) ENGINE=InnoDB AUTO_INCREMENT=6 DEFAULT CHARSET=utf8 COMMENT='注册用户信息表';
+) ENGINE=InnoDB AUTO_INCREMENT=7 DEFAULT CHARSET=utf8 COMMENT='注册用户信息表';
 
 -- ----------------------------
 -- Table structure for worker_info
@@ -176,12 +176,12 @@ CREATE TABLE `worker_info` (
   `gender` char(2) NOT NULL DEFAULT '男' COMMENT '性别',
   `phone` varchar(16) NOT NULL COMMENT '手机号码',
   `department` int(11) DEFAULT NULL COMMENT '部门',
-  `email` varchar(16) DEFAULT NULL COMMENT '邮箱地址',
+  `email` varchar(32) DEFAULT NULL COMMENT '邮箱地址',
   `address` varchar(32) DEFAULT NULL COMMENT '地址',
   `create_time` datetime DEFAULT NULL COMMENT '创建时间',
   `update_time` datetime DEFAULT NULL COMMENT '更新时间',
   PRIMARY KEY (`worker_id`),
   UNIQUE KEY `uqe_username` (`username`)
-) ENGINE=InnoDB AUTO_INCREMENT=7 DEFAULT CHARSET=utf8 COMMENT='工作人员信息表';
+) ENGINE=InnoDB AUTO_INCREMENT=8 DEFAULT CHARSET=utf8 COMMENT='工作人员信息表';
 
 SET FOREIGN_KEY_CHECKS = 1;

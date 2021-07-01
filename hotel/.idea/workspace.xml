@@ -4,7 +4,185 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a4fc3019-61a4-4841-9263-57b4749badbf" name="Default Changelist" comment="" />
+    <list default="true" id="a4fc3019-61a4-4841-9263-57b4749badbf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/Master酒店管理系统.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel-manager-1.2/.babelrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel-manager-1.2/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel-manager-1.2/.eslintignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel-manager-1.2/.eslintrc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel-manager-1.2/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel-manager-1.2/.postcssrc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel-manager-1.2/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel-manager-1.2/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel-manager-1.2/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel-manager-1.2/build/build.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel-manager-1.2/build/check-versions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel-manager-1.2/build/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel-manager-1.2/build/utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel-manager-1.2/build/vue-loader.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel-manager-1.2/build/webpack.base.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel-manager-1.2/build/webpack.dev.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel-manager-1.2/build/webpack.prod.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel-manager-1.2/config/dev.env.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel-manager-1.2/config/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel-manager-1.2/config/prod.env.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel-manager-1.2/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel-manager-1.2/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel-manager-1.2/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel-manager-1.2/screenshots/前台-热门房型.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel-manager-1.2/screenshots/前台-用户预定.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel-manager-1.2/screenshots/前台-订单.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel-manager-1.2/screenshots/前台用户注册.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel-manager-1.2/screenshots/前台用户登录.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel-manager-1.2/screenshots/前台首页.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel-manager-1.2/screenshots/后台-房间信息.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel-manager-1.2/screenshots/后台-房间类型.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel-manager-1.2/screenshots/后台-操作员-客户信息.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel-manager-1.2/screenshots/后台-操作员-订单信息.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel-manager-1.2/screenshots/后台-操作员管理.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel-manager-1.2/screenshots/后台-操作员首页.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel-manager-1.2/screenshots/后台-登录.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel-manager-1.2/screenshots/后台-管理员首页.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel-manager-1.2/screenshots/后台-预定管理.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel-manager-1.2/src/App.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel-manager-1.2/src/api/admin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel-manager-1.2/src/api/checkIn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel-manager-1.2/src/api/login.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel-manager-1.2/src/api/order.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel-manager-1.2/src/api/orderType.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel-manager-1.2/src/api/roomInfo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel-manager-1.2/src/api/roomType.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel-manager-1.2/src/api/user.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel-manager-1.2/src/api/worker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel-manager-1.2/src/assets/404_images/404.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel-manager-1.2/src/assets/404_images/404_cloud.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel-manager-1.2/src/components/Breadcrumb/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel-manager-1.2/src/components/Hamburger/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel-manager-1.2/src/components/SvgIcon/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel-manager-1.2/src/icons/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel-manager-1.2/src/icons/svg/example.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel-manager-1.2/src/icons/svg/eye.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel-manager-1.2/src/icons/svg/form.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel-manager-1.2/src/icons/svg/link.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel-manager-1.2/src/icons/svg/nested.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel-manager-1.2/src/icons/svg/password.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel-manager-1.2/src/icons/svg/table.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel-manager-1.2/src/icons/svg/tree.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel-manager-1.2/src/icons/svg/user.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel-manager-1.2/src/icons/svgo.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel-manager-1.2/src/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel-manager-1.2/src/router/router.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel-manager-1.2/src/store/getters.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel-manager-1.2/src/store/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel-manager-1.2/src/store/modules/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel-manager-1.2/src/store/modules/user.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel-manager-1.2/src/styles/element-ui.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel-manager-1.2/src/styles/index.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel-manager-1.2/src/styles/mixin.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel-manager-1.2/src/styles/sidebar.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel-manager-1.2/src/styles/transition.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel-manager-1.2/src/styles/variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel-manager-1.2/src/utils/auth.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel-manager-1.2/src/utils/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel-manager-1.2/src/utils/myFilter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel-manager-1.2/src/utils/request.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel-manager-1.2/src/utils/validate.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel-manager-1.2/src/views/404.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel-manager-1.2/src/views/bookingType/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel-manager-1.2/src/views/dashboard/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel-manager-1.2/src/views/guest/add.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel-manager-1.2/src/views/guest/edit.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel-manager-1.2/src/views/guest/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel-manager-1.2/src/views/home/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel-manager-1.2/src/views/layout/Container.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel-manager-1.2/src/views/layout/Layout.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel-manager-1.2/src/views/layout/components/AppMain.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel-manager-1.2/src/views/layout/components/Navbar.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel-manager-1.2/src/views/layout/components/Sidebar/Item.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel-manager-1.2/src/views/layout/components/Sidebar/Link.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel-manager-1.2/src/views/layout/components/Sidebar/SidebarItem.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel-manager-1.2/src/views/layout/components/Sidebar/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel-manager-1.2/src/views/layout/components/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel-manager-1.2/src/views/layout/mixin/ResizeHandler.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel-manager-1.2/src/views/layout/pages/aside.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel-manager-1.2/src/views/login/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel-manager-1.2/src/views/order/add.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel-manager-1.2/src/views/order/edit.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel-manager-1.2/src/views/order/order.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel-manager-1.2/src/views/roomInfo/add.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel-manager-1.2/src/views/roomInfo/edit.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel-manager-1.2/src/views/roomInfo/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel-manager-1.2/src/views/roomType/add.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel-manager-1.2/src/views/roomType/edit.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel-manager-1.2/src/views/roomType/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel-manager-1.2/src/views/worker/add.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel-manager-1.2/src/views/worker/edit.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel-manager-1.2/src/views/worker/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel-manager-1.2/src/views/worker/info.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel-manager-1.2/static/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel_app-1.2/.babelrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel_app-1.2/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel_app-1.2/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel_app-1.2/.postcssrc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel_app-1.2/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel_app-1.2/build/build.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel_app-1.2/build/check-versions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel_app-1.2/build/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel_app-1.2/build/utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel_app-1.2/build/vue-loader.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel_app-1.2/build/webpack.base.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel_app-1.2/build/webpack.dev.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel_app-1.2/build/webpack.prod.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel_app-1.2/config/dev.env.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel_app-1.2/config/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel_app-1.2/config/prod.env.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel_app-1.2/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel_app-1.2/src/App.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel_app-1.2/src/api/hotel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel_app-1.2/src/api/order.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel_app-1.2/src/api/orderType.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel_app-1.2/src/api/roomInfo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel_app-1.2/src/api/roomType.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel_app-1.2/src/api/user.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel_app-1.2/src/assets/404_images/404.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel_app-1.2/src/assets/404_images/404_cloud.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel_app-1.2/src/assets/banner/banner1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel_app-1.2/src/assets/banner/banner2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel_app-1.2/src/assets/banner/banner3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel_app-1.2/src/assets/iconfont/MaterialIcons-Regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel_app-1.2/src/assets/iconfont/MaterialIcons-Regular.ijmap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel_app-1.2/src/assets/iconfont/MaterialIcons-Regular.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel_app-1.2/src/assets/iconfont/MaterialIcons-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel_app-1.2/src/assets/iconfont/MaterialIcons-Regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel_app-1.2/src/assets/iconfont/MaterialIcons-Regular.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel_app-1.2/src/assets/iconfont/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel_app-1.2/src/assets/iconfont/codepoints" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel_app-1.2/src/assets/iconfont/material-icons.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel_app-1.2/src/assets/imgs/index1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel_app-1.2/src/assets/imgs/index2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel_app-1.2/src/assets/imgs/index3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel_app-1.2/src/assets/imgs/room.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel_app-1.2/src/assets/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel_app-1.2/src/assets/logo26.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel_app-1.2/src/components/404.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel_app-1.2/src/components/IndexLayout.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel_app-1.2/src/components/IndexPage.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel_app-1.2/src/components/Login.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel_app-1.2/src/components/MakeOrder.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel_app-1.2/src/components/MyProfile.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel_app-1.2/src/components/Order.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel_app-1.2/src/components/OrderDetail.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel_app-1.2/src/components/Register.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel_app-1.2/src/components/Room.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel_app-1.2/src/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel_app-1.2/src/router/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel_app-1.2/src/utils/myFilter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel_app-1.2/src/utils/request.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel_app-1.2/static/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel_app-1.2/static/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +194,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
@@ -29,6 +210,7 @@
     <setting file="file://$PROJECT_DIR$/src/main/resources/mybatis/mapper/RoomTypeMapper.xml" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="1uLpLRHreR2QmLo8k6ZkzdwRKvv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
@@ -40,49 +222,43 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="IntelliLang.Configuration" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="Spring Boot.HotelApplication">
-    <configuration name="RandomCreation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.linxin.hotel.utils.RandomCreation" />
-      <module name="hotel" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cn.linxin.hotel.utils.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HotelApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+    <configuration name="HotelApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="hotel" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.linxin.hotel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <option name="SPRING_BOOT_MAIN_CLASS" value="cn.linxin.hotel.HotelApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SHORTEN_COMMAND_LINE" value="NONE" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.RandomCreation" />
+        <item itemvalue="Spring Boot.HotelApplication" />
       </list>
     </recent_temporary>
   </component>
@@ -100,11 +276,23 @@
       <workItem from="1624519690109" duration="85000" />
       <workItem from="1624519778464" duration="75382000" />
       <workItem from="1625108054388" duration="699000" />
+      <workItem from="1625117897128" duration="1326000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
