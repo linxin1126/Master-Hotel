@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a4fc3019-61a4-4841-9263-57b4749badbf" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/cn/linxin/hotel/config/GlobalCrosConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/linxin/hotel/config/GlobalCorsConfig.java" afterDir="false" />
+    <list default="true" id="a4fc3019-61a4-4841-9263-57b4749badbf" name="Default Changelist" comment="规范">
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/linxin/hotel/config/GlobalCorsConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/linxin/hotel/config/GlobalCorsConfig.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,8 +90,23 @@
       <workItem from="1624519778464" duration="75382000" />
       <workItem from="1625108054388" duration="699000" />
       <workItem from="1625117897128" duration="1326000" />
-      <workItem from="1625121761856" duration="468000" />
+      <workItem from="1625121761856" duration="667000" />
     </task>
+    <task id="LOCAL-00001" summary="规范">
+      <created>1625122317455</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1625122317455</updated>
+    </task>
+    <task id="LOCAL-00002" summary="规范">
+      <created>1625122387971</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1625122387971</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -108,6 +123,10 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="规范" />
+    <option name="LAST_COMMIT_MESSAGE" value="规范" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
