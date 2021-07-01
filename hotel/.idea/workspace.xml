@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a4fc3019-61a4-4841-9263-57b4749badbf" name="Default Changelist" comment="规范">
-      <change beforePath="$PROJECT_DIR$/src/main/java/cn/linxin/hotel/config/GlobalCorsConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/linxin/hotel/config/GlobalCorsConfig.java" afterDir="false" />
-    </list>
+    <list default="true" id="a4fc3019-61a4-4841-9263-57b4749badbf" name="Default Changelist" comment="规范" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -90,7 +88,7 @@
       <workItem from="1624519778464" duration="75382000" />
       <workItem from="1625108054388" duration="699000" />
       <workItem from="1625117897128" duration="1326000" />
-      <workItem from="1625121761856" duration="667000" />
+      <workItem from="1625121761856" duration="733000" />
     </task>
     <task id="LOCAL-00001" summary="规范">
       <created>1625122317455</created>
@@ -106,7 +104,14 @@
       <option name="project" value="LOCAL" />
       <updated>1625122387971</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="规范">
+      <created>1625122436621</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1625122436621</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
