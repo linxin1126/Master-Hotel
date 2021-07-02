@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a4fc3019-61a4-4841-9263-57b4749badbf" name="Default Changelist" comment="规范" />
+    <list default="true" id="a4fc3019-61a4-4841-9263-57b4749badbf" name="Default Changelist" comment="规范">
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel-manager/src/views/layout/Container.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../hotel-ui/hotel-manager/src/views/layout/Container.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hotel-ui/hotel_app/src/components/IndexPage.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../hotel-ui/hotel_app/src/components/IndexPage.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -89,6 +93,7 @@
       <workItem from="1625108054388" duration="699000" />
       <workItem from="1625117897128" duration="1326000" />
       <workItem from="1625121761856" duration="733000" />
+      <workItem from="1625123537637" duration="8764000" />
     </task>
     <task id="LOCAL-00001" summary="规范">
       <created>1625122317455</created>

@@ -4,6 +4,8 @@
           <img src="../assets/logo26.png" class="logo">
           <h1>{{ hotelInfo.hotelName }}</h1>
           <h2>一家国际化连锁经营的大型酒店</h2>
+          <a href="https://github.com/Linxin1126">项目作者：Linxin1126 (Linxin) (github.com)</a>
+          <a href="https://github.com/Linxin1126/Master-Hotel">项目地址：Linxin1126/Master-Hotel: A Hotel management system (github.com)</a>
           <p v-if="!isLogin()">
             <mu-button color="secondary" @click="navigateTo('/login')">
               <b>立即登录</b>
@@ -156,5 +158,8 @@
   display: flex;
   flex-wrap: nowrap;
   overflow-x: auto;
+}
+a {
+  color: #fff;
 }
 </style>
