@@ -6,9 +6,6 @@
 *.css linguist-language=Java 
 *.sql linguist-language=Java
 *.uml linguist-language=Java 
-*.cmd linguist-language=Java 
-<<<<<<< HEAD
+*.cmd linguist-language=Java
 *.vue linguist-language=Java 
-=======
-*.vue linguist-language=Java 
->>>>>>> 09d1223... Some changes
+
