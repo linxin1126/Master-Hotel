@@ -7,5 +7,5 @@
 *.sql linguist-language=Java
 *.uml linguist-language=Java 
 *.cmd linguist-language=Java
-*.vue linguist-language=Java 
+*.vue linguist-language=Java
 
